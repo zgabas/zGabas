@@ -28,10 +28,10 @@
 
 ### 🎵 Music
 
-**Nightntt**
+**zgabas**
 
-[![Spotify](https://img.shields.io/badge/Spotify-Nightntt-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/artist/7IiNtYZ8qVSC9L8RZjIIay)
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-Nightntt-FA243C?style=for-the-badge\&logo=applemusic\&logoColor=white)](https://music.apple.com/br/artist/nightntt/1734254750)
+[![Spotify](https://img.shields.io/badge/Spotify-zgabas-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/artist/6C108sG1oCeSVsHG8SUrdz)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-zgabas-FA243C?style=for-the-badge\&logo=applemusic\&logoColor=white)](https://music.apple.com/artist/zgabas/1862276688)
 
 ### 📊 GitHub
 
